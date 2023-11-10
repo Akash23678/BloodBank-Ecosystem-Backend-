@@ -19,6 +19,11 @@
 
 # BloodBank-Ecosystem-Backend-
 The Blood Bank Ecosystem is a comprehensive and sophisticated system designed to streamline and optimize the processes involved in blood donation, storage, and distribution. This innovative project leverages advanced technologies to create a seamless, user-friendly experience for both donors and recipients.
+### TechStacks:)
+#### Node JS, 
+#### Express
+#### MongoDB
+#### REST API Architecture
 
 ![BloodBank symbol](https://github.com/Akash23678/BloodBank-Ecosystem-Backend-/assets/97841784/7c6974cc-12b0-4d56-8a83-9a68c5cd7f8f)
 
