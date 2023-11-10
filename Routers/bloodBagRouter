@@ -1,0 +1,10 @@
+const express = require("express");
+const router = express.Router();
+
+const { handleGetAllbloodBags } = require("../Controllers/bloodBagController");
+
+router.route("/all")
+.get(handleGetAllbloodBags);
+
+
+module.exports = router;
