@@ -1,7 +1,26 @@
+
+ ![Welcome](https://user-images.githubusercontent.com/97841784/222218618-8af6b657-4533-49dd-9f5c-ce31118a4a78.png)
+
+👋 Hello there! I'm Akash  a Computer Science graduate with a passion for coding and creating optmised and robust solutions. Currently donning the hat of a Software Engineer in the cloud domain, I thrive on the excitement of turning ideas into functional and scalable web applications.
+
+🚀 Professional Background:
+🎓 Graduated with a Bachelor's degree in Computer Science and Engineering (BTech CSE).
+💻 Currently honing my skills and contributing as a Software Engineer in the dynamic world of cloud computing.
+
+💡 Experience and Expertise:
+🌐 Experienced in developing powerful backend solutions for web applications.
+☁️ Specializing in cloud technologies to architect scalable and efficient systems.
+🚀 Always up for a challenge, I find joy in continuously learning and adapting to new technologies.
+
+## Connect With Me
+[![Screenshot 2023-03-01 230432](https://user-images.githubusercontent.com/97841784/222218069-91f2f6c2-c7af-4c8d-b828-865ef49843e4.png)
+](https://www.linkedin.com/in/akash-chandra-sahu-54016818a/)   
+
+
 # BloodBank-Ecosystem-Backend-
 The Blood Bank Ecosystem is a comprehensive and sophisticated system designed to streamline and optimize the processes involved in blood donation, storage, and distribution. This innovative project leverages advanced technologies to create a seamless, user-friendly experience for both donors and recipients.
 
-(![BloodBank symbol](https://github.com/Akash23678/BloodBank-Ecosystem-Backend-/assets/97841784/7c6974cc-12b0-4d56-8a83-9a68c5cd7f8f)
+![BloodBank symbol](https://github.com/Akash23678/BloodBank-Ecosystem-Backend-/assets/97841784/7c6974cc-12b0-4d56-8a83-9a68c5cd7f8f)
 
 ## Key Functionalities:
 
