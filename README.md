@@ -1,9 +1,9 @@
 
  ![Welcome](https://user-images.githubusercontent.com/97841784/222218618-8af6b657-4533-49dd-9f5c-ce31118a4a78.png)
 
-👋 Hello there! I'm Akash  a Computer Science graduate with a passion for coding and creating optmised and robust solutions. Currently donning the hat of a Software Engineer in the cloud domain, I thrive on the excitement of turning ideas into functional and scalable web applications.
+👋 Hello there! I'm Akash  a Computer Science graduate with a passion for coding and creating optmised and robust solutions. Currently as a Software Engineer in the cloud domain, I thrive on the excitement of turning ideas into functional and scalable web applications.
 
-🚀 Professional Background:
+🚀 Professional Background: </br>
 🎓 Graduated with a Bachelor's degree in Computer Science and Engineering (BTech CSE).
 💻 Currently honing my skills and contributing as a Software Engineer in the dynamic world of cloud computing.
 
