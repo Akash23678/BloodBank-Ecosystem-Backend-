@@ -4,13 +4,13 @@
 👋 Hello there! I'm Akash  a Computer Science graduate with a passion for coding and creating optmised and robust solutions. Currently as a Software Engineer in the cloud domain, I thrive on the excitement of turning ideas into functional and scalable web applications.
 
 🚀 Professional Background: </br>
-🎓 Graduated with a Bachelor's degree in Computer Science and Engineering (BTech CSE).
-💻 Currently honing my skills and contributing as a Software Engineer in the dynamic world of cloud computing.
+🎓 Graduated with a Bachelor's degree in Computer Science and Engineering (BTech CSE). </br>
+💻 Currently honing my skills and contributing as a Software Engineer in the dynamic world of cloud computing.</br>
 
-💡 Experience and Expertise:
-🌐 Experienced in developing powerful backend solutions for web applications.
-☁️ Specializing in cloud technologies to architect scalable and efficient systems.
-🚀 Always up for a challenge, I find joy in continuously learning and adapting to new technologies.
+💡 Experience and Expertise: </br>
+🌐 Experienced in developing powerful backend solutions for web applications. </br>
+☁️ Specializing in cloud technologies to architect scalable and efficient systems. </br>
+🚀 Always up for a challenge, I find joy in continuously learning and adapting to new technologies. </br>
 
 ## Connect With Me
 [![Screenshot 2023-03-01 230432](https://user-images.githubusercontent.com/97841784/222218069-91f2f6c2-c7af-4c8d-b828-865ef49843e4.png)
