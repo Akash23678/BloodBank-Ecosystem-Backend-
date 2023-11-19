@@ -27,6 +27,39 @@ The Blood Bank Ecosystem is a comprehensive and sophisticated system designed to
 
 ![BloodBank symbol](https://github.com/Akash23678/BloodBank-Ecosystem-Backend-/assets/97841784/7c6974cc-12b0-4d56-8a83-9a68c5cd7f8f)
 
+
+## Run the Application
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/Akash23678/BloodBank-Ecosystem-Backend-.git
+    ```
+
+2. **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+3. **Set up MongoDB:**
+
+   - Ensure MongoDB is installed and running.
+   - Update the MongoDB connection string in the configuration.
+
+## Usage
+
+1. **Start the server:**
+
+    ```bash
+    npm start
+    ```
+
+   The server will be running on `http://localhost:5000`.
+
+
+
+
 ## Key Functionalities:
 
 ### Donor Management System:
@@ -61,3 +94,5 @@ By automating and optimizing blood bank processes, the project directly contribu
 User-Centric Design: The user-centric design ensures that donors, recipients, and administrators can navigate the system effortlessly, fostering a positive and inclusive user experience.
 Conclusion:
 The Blood Bank Ecosystem stands as a testament to innovation in healthcare technology. By combining cutting-edge functionalities with a user-centric approach, this project addresses critical needs within the blood banking domain, making a significant impact on public health and safety.
+
+
